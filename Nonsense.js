@@ -204,7 +204,7 @@
         "CASE", "Životný Cyklus", "Outsourcing", "Cieľ", "Súhrn Vlastností", "Požiadavok Na Vývojový Proces", "Zákazník",
         "Stakeholder", "Syndróm 90% Hotovo", "Syndróm Druhého Systému", "Prototyp", "SCRUM",
         "Atribút", "Stav objektu", "Polymorfizmus", "Prípad Užitia", "Balíček", "Relatívny Objekt",
-        "Poblém", "Rozvoj", "Vzor", "Internet", "Prostriedok", "UML", "Prístup", "Algoritmus", "RUP", 
+        "Problém", "Rozvoj", "Vzor", "Internet", "Prostriedok", "UML", "Prístup", "Algoritmus", "RUP", 
         "Framework", "Analytik", "Manažment", "Aspekt", "Tok", "Uživateľ", "Patent", "Copyright", 
         "Reflexívny Vzťah"
         ],
@@ -265,7 +265,7 @@
         "Procesu", "Návrhu", "Manuálu", "Modelu", "Životného Cyklu", "Outsourcingu", "Požiadavku Na Vývojový Proces",
         "Cieľa", "Súhrnu Vlastností", "Zákazníka", "Stakeholdera", "Syndrómu 90% Hotovo", "Prototypu",
         "Syndrómu Druhého Systému", "Atribútu", "Stavu objektu", "Polymorfizmu", "Prípadu Užitia", "Balíčku",
-        "Relatívneho Objektu", "Poblému", "Rozvoja", "Vzoru", "Internetu", "Prostriedku", "UML", "Prístupu", "Algoritmu", "RUPu", "Frameworku", "Analytika",
+        "Relatívneho Objektu", "Problému", "Rozvoja", "Vzoru", "Internetu", "Prostriedku", "UML", "Prístupu", "Algoritmu", "RUPu", "Frameworku", "Analytika",
         "Manažmentu", "Aspektu", "Toku", "Uživateľa", "Reflexívneho Vzťahu", "Patentu", "Copyrightu", 
         ],
         female: [
