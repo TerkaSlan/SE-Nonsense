@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Bullshit Generator</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <script src="Nonsense.js"></script>
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/octicons/octicons.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+  <div id="foo"><h4>Vygeneruj si vlastný random IUS bullshit v pohodlí svojho domova!</h4></div>
+    <div class="row">
+      <div class="column" style="margin-top: 25%">
+        <button id="go">GENERUJ!</button>
+        <h1><div id="result"></div></h1>
+      </div>
+    </div>
+  <hr>Veľa šťastia na semestrálke ! :) </hr></br>
+  <a href="https://github.com/TerkaSlan/SE-Bullshit"><span class="octicon octicon-mark-github"></span></a>
+
+  </div>
+  
+  <script>
+    var ns = new Nonsense();
+    document.getElementById("go").onclick = function(){
+              var r=[];
+              for (var i=0;i<1;i++)
+                  r.push(ns.buzzPhrase());
+              document.getElementById('result').innerHTML = r.join('<br />')
+              
+       var e = document.getElementById('foo');
+       e.style.display = 'none';
+      }
+  </script>
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
