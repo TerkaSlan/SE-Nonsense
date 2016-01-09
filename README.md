@@ -1,9 +1,9 @@
-# SE-Bullshit
+# SE-Nonsense
 Náhodný generátor viet z prostredia softwareového inžinierstva.
 
 ![alt tag](http://s22.postimg.org/rkpm0fpdd/IUSBS.png)
 
-SE-Bullshit funguje náhodným vyberáním predpripravených viet, do ktorých
+SE-Nonsense funguje náhodným vyberáním predpripravených viet, do ktorých
 sa náhodne vyberajú podstatné a prídavné mená, zatiaľ v nominatíve, genitíve a inštrumentáli.
 
 Všetko zaujímavé je v `Nonsense.js`.
