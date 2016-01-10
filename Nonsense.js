@@ -321,8 +321,8 @@
         "Objektom", "Projektom", "ER Diagramom", "Človekom", "Produktom", "Počtom",
         "Procesom", "Návrhom", "Manuálom", "Prípadom", "Modelom", "Systémom", "Dátovým Typom", "Jazykom UML",
         "CASEom", "Životným Cyklom", "Outsourcingom", "Cieľom", "Súhrnom Vlastností", "Požiadavkom Na Vývojový Proces", "Zákazníkom",
-        "Stakeholderom", "Syndróm 90% Hotovo", "Syndróm Druhého Systému", "Prototyp", "SCRUM",
-        "Atribútom", "Stavom objektu", "Polymorfizmom", "Prípadom Užitia", "Balíčekom", "Relatívnym Objektom",
+        "Stakeholderom", "Syndróm 90% Hotovo", "Syndróm Druhého Systému", "Prototyp", "SCRUMom",
+        "Atribútom", "Stavom objektu", "Polymorfizmom", "Prípadom Užitia", "Balíčkom", "Relatívnym Objektom",
         "Poblémom", "Rozvojom", "Vzorom", "Internetom", "Prostriedkom", "UML-kom", "Prístupom", "Algoritmom", "RUPom", 
         "Frameworkom", "Analytikom", "Manažmentom", "Aspektom", "Tokom", "Uživateľom", "Patentom", "Copyrightom", 
         "Reflexívnym Vzťahom"
